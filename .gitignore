@@ -1,0 +1,13 @@
+*.swp
+gen-cpp/
+gen-py/
+.SConstruct.lock
+.sconsign.dblite
+blade-bin
+build64_debug/
+build64_release/
+tags
+.Building.lock
+protocols/target/
+doxygen_ouput/
+scm.doxygen.conf
